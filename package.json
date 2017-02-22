@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/REFFIND/ember-cli-timezone-input",
+  "repository": "https://github.com/wethanet/ember-cli-timezone-input",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
