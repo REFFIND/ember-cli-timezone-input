@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-timezone-input/components/timezone-input';
